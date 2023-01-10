@@ -1,0 +1,8 @@
+.carousel{
+    /* border: 1px solid red; */
+    
+}
+.carousel img{
+    height: calc(90vh - 90px);
+}
+ 
